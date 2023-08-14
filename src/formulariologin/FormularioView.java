@@ -45,7 +45,7 @@ public class FormularioView extends javax.swing.JFrame {
 
         jLabel3.setText("Contraseña");
 
-        JBregistrar.setText("Registrar");
+        JBregistrar.setText("Iniciar");
         JBregistrar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 JBregistrarActionPerformed(evt);
